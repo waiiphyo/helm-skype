@@ -46,9 +46,9 @@ service:
 configmap:
   name: skype-cm
   data:
-    username: fr-sysops-alert1@outlook.com
-    password: vmy2tXf3KGZRyvef
-    key: sysopsskype
+    username: username
+    password: password
+    key: something
 
 namespace: 
   name: skypeapi
